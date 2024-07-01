@@ -49,7 +49,7 @@
     "@rollup/plugin-json": "^6.1.0",
     "@rollup/plugin-node-resolve": "^15.2.3",
     "@rollup/plugin-typescript": "^11.1.6",
-    "@sindresorhus/tsconfig": "^5.0.0",
+    "@sindresorhus/tsconfig": "^6.0.0",
     "@technote-space/github-action-helper": "^5.3.17",
     "@technote-space/github-action-log-helper": "^0.2.19",
     "@technote-space/github-action-test-helper": "^0.11.17",
